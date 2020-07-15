@@ -3,7 +3,7 @@
 
 Um teste de um site!
 
-'Código'
+`Codigo`
 
 	Bloco de Código
 	Mais uma linha
