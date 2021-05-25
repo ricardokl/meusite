@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+include:
+ - _pages
+ - _posts
