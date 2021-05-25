@@ -6,7 +6,7 @@ baseurl: "/meusite"
 
 markdown: kramdown
 
-theme: jekyll-theme-midnight
+theme: minima
 
 timezone: America/Sao_Paulo
 
