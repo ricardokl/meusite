@@ -15,3 +15,12 @@ future: true
 include:
  - _pages
  - _posts
+
+permalink: /:title/
+
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
+ - CNAME
