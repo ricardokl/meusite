@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Test"
-permalink: /:title/
 ---
 
 # Página teste
