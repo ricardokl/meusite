@@ -4,7 +4,10 @@ description: Minha descrição
 
 baseurl: "/meusite"
 
+markdown: kramdown
+
 theme: jekyll-theme-midnight
+
 include:
  - _pages
  - _posts
