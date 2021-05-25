@@ -1,3 +1,9 @@
+name: Ricardo Kullock
+
+description: Minha descrição
+
+baseurl: "/meusite"
+
 theme: jekyll-theme-midnight
 include:
  - _pages
