@@ -10,6 +10,8 @@ theme: jekyll-theme-midnight
 
 timezone: America/Sao_Paulo
 
+future: true
+
 include:
  - _pages
  - _posts
