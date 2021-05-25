@@ -8,6 +8,8 @@ markdown: kramdown
 
 theme: jekyll-theme-midnight
 
+timezone: America/Sao_Paulo
+
 include:
  - _pages
  - _posts
